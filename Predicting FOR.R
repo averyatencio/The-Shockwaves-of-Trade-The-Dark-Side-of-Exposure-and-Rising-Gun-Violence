@@ -1,4 +1,7 @@
+## below is the code used to predict the firearm ownership rate (FOR) for 2017-2022 ##
+
 ## Prediction of FOR 2017-2022 ##
+
 library(lubridate)
 library(dplyr)
 library(readxl)
