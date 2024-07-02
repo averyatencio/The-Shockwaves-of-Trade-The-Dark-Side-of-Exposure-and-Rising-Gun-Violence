@@ -1,3 +1,4 @@
+## below is the code used to manipulate the data and add the covariates to the dataset ##
 library(readxl)
 library(dplyr)
 library(tidyr)
