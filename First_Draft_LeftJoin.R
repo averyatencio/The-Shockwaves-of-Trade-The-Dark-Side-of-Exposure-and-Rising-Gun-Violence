@@ -1,4 +1,5 @@
 ## Left Join of Shooter Database to SEER Data ## 
+
 library(tidytable)
 library(readxl)
 library(openxlsx)
