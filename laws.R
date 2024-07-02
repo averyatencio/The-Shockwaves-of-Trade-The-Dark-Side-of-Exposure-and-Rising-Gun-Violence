@@ -1,3 +1,5 @@
+## below is the code used to code the variable Law Rank ##
+
 library(readxl)
 library(dplyr)
 library(tidyr)
