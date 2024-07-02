@@ -6,7 +6,6 @@ library(openxlsx)
 shootdf <- read_excel("C:/Users/Owner/OneDrive/Masters Thesis/Compiled Shooter Database (NEEDS EDITS) .xlsx")
 us <- read_excel("C:/Users/Owner/OneDrive/Masters Thesis/uscities.xlsx")
 
-
 # Rename the columns you want to merge as the same name (here you rename state_id as state, first element is the NEW name)
 us1 <- us %>% 
   rename(state = state_id)
