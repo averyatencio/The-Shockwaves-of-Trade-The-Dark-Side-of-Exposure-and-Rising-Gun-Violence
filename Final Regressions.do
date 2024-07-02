@@ -1,3 +1,5 @@
+** below is the Stata code for the final linear probability model regreressions and robustness checks **
+
 // Final LPM Regressions // 
 ** Load Data ** 
 import excel "\Users\averyatencio\Documents\Master's Thesis\Thesis\Code and Excel\final.xlsx", sheet("Sheet 1") firstrow clear
