@@ -1,3 +1,5 @@
+** below is the Stata code used to estimate county-level manufacturing employment prior to 2001 **
+
 // Estimating Manufacturing prior to 2001 //
 
 import excel "\Users\averyatencio\Documents\Master's Thesis\Thesis\Beginning Sets/manufacturing_est1.xlsx", firstrow clear
